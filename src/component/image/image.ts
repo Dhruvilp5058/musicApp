@@ -1,0 +1,15 @@
+export const image = {
+  musiclogo: require('../../../assets/image/music.png'),
+  image1: require('../../../assets/image/image1.jpeg'),
+  image2: require('../../../assets/image/image2.jpg'),
+  image3: require('../../../assets/image/image3.webp'),
+  image4: require('../../../assets/image/image4.webp'),
+  img1: require('../../../assets/image/img1.jpeg'),
+  img2: require('../../../assets/image/img2.jpg'),
+  img3: require('../../../assets/image/img3.jpg'),
+  img4: require('../../../assets/image/img4.jpeg'),
+  img5: require('../../../assets/image/img5.jpg'),
+  img6: require('../../../assets/image/img6.jpeg'),
+  img7: require('../../../assets/image/img7.jpeg'),
+  img8: require('../../../assets/image/img8.jpeg'),
+};
